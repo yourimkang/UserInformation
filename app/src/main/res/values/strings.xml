@@ -3,4 +3,5 @@
     <string name="text_name">사용자 이름</string>
     <string name="text_email">이메일 주소</string>
     <string name="but_str">여기를 클릭</string>
+    <string name="text_cancel">취소가 선택되었음.</string>
 </resources>
